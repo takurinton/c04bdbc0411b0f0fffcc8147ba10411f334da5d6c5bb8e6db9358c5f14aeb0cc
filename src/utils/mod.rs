@@ -7,5 +7,6 @@ pub mod http_client;
 pub mod http_request;
 pub mod http_response;
 pub mod percent_decode;
+pub mod regix;
 pub mod tls;
 pub mod url;
